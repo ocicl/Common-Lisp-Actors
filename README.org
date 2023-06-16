@@ -2,9 +2,8 @@
 
 An actor system for Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/naveensundarg/Common-Lisp-Actors.git   |
-| commit  | fd08ce1  |
-| systems | Common-Lisp-Actors |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------------|
+| source  | git:https://github.com/naveensundarg/Common-Lisp-Actors.git |
+| commit  | fd08ce1                                                     |
+| systems | cl-actors                                                   |
+|---------+-------------------------------------------------------------|
